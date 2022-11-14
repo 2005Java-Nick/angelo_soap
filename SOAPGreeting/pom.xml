@@ -10,7 +10,7 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
   
   <properties>
   	<cxf.version>3.1.6</cxf.version>
-  	<org.springframework.version>4.2.3.RELEASE</org.springframework.version>
+  	<org.springframework.version>4.2.7.RELEASE</org.springframework.version>
   </properties>
   
   <dependencies>
